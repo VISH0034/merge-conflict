@@ -9,12 +9,12 @@ feature1()
 {
   printf("This is first feature added")
 }
-
+feaature2()
+{
+  printf("This is second feature added in main.c")
+}
 Initial Security()
 {
- //Sample Code
+ Only applicable for internal stakeholders
 }
 
-
-
-}
