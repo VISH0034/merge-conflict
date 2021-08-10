@@ -10,6 +10,11 @@ feature1()
   printf("This is first feature added")
 }
 
+Initial Security()
+{
+ //Sample Code
+}
+
 
 
 }
