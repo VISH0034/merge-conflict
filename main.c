@@ -2,7 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  printf("This is my first code")
 }
 
 Initial Security()
