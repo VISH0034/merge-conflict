@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  printf("This is the Primary code")
 }
 
 feaature2()
 {
-  //Sample Code for Feature 2
+  printf("This is second feature added in main.c")
 }
 
 
